@@ -44,3 +44,9 @@ All data is inserted dynamically into the HTML without requiring a page reload. 
 
 5. Error Handling and Feedback:
 If the user enters a city that doesn't exist or the API returns an error (e.g., due to network issues or an invalid key), the app provides a clear, friendly error message such as “City not found.” This ensures a smooth user experience and prevents confusion.
+
+
+#OUTPUT
+
+ <img width="1356" height="679" alt="Image" src="https://github.com/user-attachments/assets/2b74822f-c347-4271-a6f2-131bf43577e9" />
+ 
